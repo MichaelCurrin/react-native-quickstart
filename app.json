@@ -1,0 +1,12 @@
+{
+  "name": "react-native-quickstart",
+  "displayName": "react-native-quickstart",
+  "expo": {
+    "name": "react-native-quickstart",
+    "slug": "react-native-quickstart",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
