@@ -20,7 +20,7 @@ $ npx create-react-native-app
 
 ## Docs
 
-See [docs](/docs/) directory.
+[![View - Documentation](https://img.shields.io/badge/View-Project_docs-blue?style=for-the-badge)](/docs/)
 
 
 ## License
